@@ -1,5 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c0fe,100:f68084&height=200&section=header&text=Hi There&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=40"/>
+  
   ### Tech Stack
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
