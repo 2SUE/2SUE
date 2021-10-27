@@ -17,8 +17,9 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SUE&layout=compact&theme=dracula)](https://github.com/metleeha)
+ 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SUE&layout=compact&theme=light)](https://github.com/metleeha)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f68084,100:a6c0fe&height=100&section=footer"/>
 </div>
