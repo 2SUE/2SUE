@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c0fe,100:f68084&height=200&section=header&text=Hi There&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c0fe,100:fdbcb6&height=200&section=header&text=Hi There&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=40"/>
   
   ### Tech Stack
 
@@ -21,5 +21,5 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SUE&layout=compact&theme=light)](https://github.com/metleeha)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f68084,100:a6c0fe&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdbcb6,100:a6c0fe&height=100&section=footer"/>
 </div>
