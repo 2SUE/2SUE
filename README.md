@@ -22,7 +22,7 @@
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
  
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SUE&layout=compact&theme=light)](https://github.com/metleeha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SUE&layout=compact&theme=light)](https://github.com/2SUE)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdbcb6,100:a6c0fe&height=100&section=footer"/>
 </div>
