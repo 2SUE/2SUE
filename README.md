@@ -7,7 +7,6 @@
   ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
   ![JSP](https://img.shields.io/badge/JSP-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23ab8bdc.svg?style=for-the-badge&logo=Csharp&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%237377ad.svg?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
