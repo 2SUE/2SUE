@@ -1,6 +1,6 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c0fe,100:fdbcb6&height=200&section=header&text=Hi There&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=40"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c0fe,80:fdbcb6&height=150&section=header&text=HiㅤThere&fontSize=50&animation=twinkling&fontColor=ffffff&fontAlignY=40"/>
+
   ### Tech Stack
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -24,5 +24,5 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2SUE&layout=compact&theme=light)](https://github.com/2SUE)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdbcb6,100:a6c0fe&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c0fe,80:fdbcb6&height=100&section=footer"/>
 </div>
